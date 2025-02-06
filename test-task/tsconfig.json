@@ -1,5 +1,6 @@
 {
   "exclude": [ "node_modules" ],
+
   "compilerOptions": {
     "target": "ES5",
     "module": "CommonJS",
@@ -9,6 +10,7 @@
     "noImplicitAny": true,
     
     "esModuleInterop": true,
+
     "allowSyntheticDefaultImports": true,
     "jsx": "preserve",
     "allowJs": true,
